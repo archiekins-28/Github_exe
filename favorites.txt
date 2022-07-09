@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Dosa
 Biriyani
 poori
+=======
+passengers
+Real steel
+jersey
+>>>>>>> movies
